@@ -1,11 +1,11 @@
-{
+﻿{
   "name": "two-of-us-mobile-web-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "build": "tsc -p tsconfig.json --noEmit && npx vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -22,3 +22,4 @@
     "vite": "^5.4.2"
   }
 }
+
