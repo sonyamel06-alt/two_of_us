@@ -1,2 +1,4 @@
 ﻿variant9 part4
+base branch line
 conflict branch line
+resolved together
